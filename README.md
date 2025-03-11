@@ -13,4 +13,15 @@ Projeto desenvolvido no segundo curso da formação Avançando com Java da Alura
 - Utilizar o Spring Data JPA para persistir dados no banco;
 - Conhecer vários tipos de banco de dados e utilizar o PostgreSQL;
 - Trabalhar com vários tipos de consultas ao banco de dados;
-- Aprofundar na interface JPARepository
+- Aprofundar na interface JPA Repository
+
+## 📚  Aprendizados
+
+- Modelagem de Banco de dados com PostgresSQL
+- Anotações e Mapeamento de entidades
+- JPA e Hibernate
+- Tipos de Relacionamentos JPA (One-To-Many, Many-To-One, Many-To-Many, One-to-One)
+- Relacionamentos Bidirecionais e Unidirecionais 
+- Cascade Types, Fetch Types(Lazy, Eager)
+- Derived Queries
+- Linguagem JPQL
